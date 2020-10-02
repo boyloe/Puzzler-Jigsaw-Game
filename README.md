@@ -10,7 +10,7 @@
 * [License](#license)
 
 ## Intro Video
-
+[Check Out Puzzler](https://www.loom.com/share/f8bc37b3644a4264bcb84abb09c84a4d)
 
 ## About
 Puzzler is an open source jigsaw puzzle game built for the web using the Unity Engine. This is currently the Alpha version since it is missing a lot of features
