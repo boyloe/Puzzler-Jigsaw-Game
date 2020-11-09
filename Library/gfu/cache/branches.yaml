@@ -13,9 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-11-08T21:16:39.356-07:00
+  lastUpdatedAtString: 2020-11-08T21:17:50.392-07:00
   initializedAtString: 2020-11-08T21:08:38.523-07:00
-  localBranches: []
+  localBranches:
+  - name: master
+    tracking: origin/master
   remoteBranches: []
   remotes:
   - name: origin
@@ -26,8 +28,14 @@ MonoBehaviour:
     function: 0
     token: 
   localConfigBranches:
-    keys: []
-    values: []
+    keys:
+    - master
+    values:
+    - name: master
+      remote:
+        name: origin
+        url: git@github.com:boyloe/Puzzler-Jigsaw-Game.git
+      trackingBranch: master
   remoteConfigBranches:
     keys:
     - origin

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-11-08T21:16:40.770-07:00
+  lastUpdatedAtString: 2020-11-08T21:17:51.305-07:00
   initializedAtString: 2020-11-08T19:23:52.484-07:00
   entries:
   - path: Library/gfu/cache/branches.yaml
@@ -25,12 +25,6 @@ MonoBehaviour:
   - path: Library/gfu/cache/gitlog.yaml
     fullPath: /Users/bryanoyloe/Jigsaw Puzzle Game/Library/gfu/cache/gitlog.yaml
     projectPath: Library/gfu/cache/gitlog.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/gfu/cache/gittrackingstatus.yaml
-    fullPath: /Users/bryanoyloe/Jigsaw Puzzle Game/Library/gfu/cache/gittrackingstatus.yaml
-    projectPath: Library/gfu/cache/gittrackingstatus.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
