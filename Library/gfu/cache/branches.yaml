@@ -13,16 +13,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-11-08T21:13:54.992-07:00
+  lastUpdatedAtString: 2020-11-08T21:16:39.356-07:00
   initializedAtString: 2020-11-08T21:08:38.523-07:00
-  localBranches:
-  - name: master
-    tracking: origin/master
-  remoteBranches:
-  - name: origin/main
-    tracking: '[None]'
-  - name: origin/master
-    tracking: '[None]'
+  localBranches: []
+  remoteBranches: []
   remotes:
   - name: origin
     url: git@github.com:boyloe/Puzzler-Jigsaw-Game.git
@@ -32,33 +26,15 @@ MonoBehaviour:
     function: 0
     token: 
   localConfigBranches:
-    keys:
-    - master
-    values:
-    - name: master
-      remote:
-        name: origin
-        url: git@github.com:boyloe/Puzzler-Jigsaw-Game.git
-      trackingBranch: master
+    keys: []
+    values: []
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
-    - Values:
-      - main
-      - master
+    - Values: []
     subKeyValues:
-    - Values:
-      - name: main
-        remote:
-          name: origin
-          url: git@github.com:boyloe/Puzzler-Jigsaw-Game.git
-        trackingBranch: 
-      - name: master
-        remote:
-          name: origin
-          url: git@github.com:boyloe/Puzzler-Jigsaw-Game.git
-        trackingBranch: 
+    - Values: []
   configRemotes:
     keys:
     - origin
